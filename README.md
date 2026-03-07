@@ -1,13 +1,51 @@
-### :rocket: Skurt0x90
----
+### 👾 Skurt0x90
 
-🔐 Cybersecurity peasant (Incident Response and crisis management). Certified GCIH. OSINT enthusiast. Former DEVOPS.
-#frenchairforce
+-----
 
----
+🔐 **Cybersecurity Officer** — Incident Response & Crisis Management  
+Certified **GCIH** · OSINT enthusiast · Former DevOps  
+`#frenchairforce`
 
-| 🎖️ Certifications | 📫 Stay in touch | |
-|--------------------|-----------------------|--------------------|
-| ![GCIH](https://images.credly.com/size/340x340/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png)| [![Follow me on GitHub](https://img.shields.io/badge/Follow%20me%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Skurt0x90) | [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Skurt0x90&show_icons=true&theme=radical)](https://github.com/Skurt0x90) |
+-----
 
+### 🎖️ Certifications
 
+<a href="https://www.credly.com/badges/search?query=gcih" target="_blank">
+  <img src="https://images.credly.com/size/340x340/images/c3e2745b-2f30-4e6b-9290-f7557a705181/image.png" width="100" alt="GCIH Badge"/>
+</a>
+
+-----
+
+### 📊 Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Skurt0x90&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Skurt0x90&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skurt0x90&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
+-----
+
+### 🏆 Trophées
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Skurt0x90&theme=radical&no-frame=true&row=1&column=6" alt="Trophées GitHub" />
+</p>
+
+-----
+
+### 📈 Activité
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skurt0x90&theme=redical&hide_border=true" alt="Contribution Graph" />
+</p>
+
+-----
+
+### 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Skurt0x90)
