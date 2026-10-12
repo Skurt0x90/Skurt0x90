@@ -44,7 +44,7 @@ Certified **GCIH** · OSINT enthusiast · Former DevOps
 ### 🏆 Trophées
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skurt0x90&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophées GitHub" />
+  <img src="https://github-trophies.vercel.app/?username=Skurt0x90&theme=radical&no-frame=true&no-bg=true&column=6&row=1" alt="Trophées GitHub" />
 </p>
 
 -----
@@ -52,7 +52,7 @@ Certified **GCIH** · OSINT enthusiast · Former DevOps
 ### 📈 Activité
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skurt0x90&theme=radical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/Skurt0x90/Skurt0x90/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 -----
