@@ -16,6 +16,17 @@ Certified **GCIH** · OSINT enthusiast · Former DevOps
 
 -----
 
+### 🕵️ Challenges OSINT
+
+| Challenge | Position | Bonnes réponses | Hints utilisés |
+|-----------|:--------:|:---------------:|:--------------:|
+| OSINT MINARM 2023 | Top 100 / 450 | - | - |
+| opération #Égide2025 | Top 20 | 92% | 1 |
+| CTF Deep Threat | Hors délai | 100% | 1 |
+| Opération CULOT | 51/225 | 92% | 0 |
+
+-----
+
 ### 📊 Stats
 
 <p align="center">
@@ -33,7 +44,7 @@ Certified **GCIH** · OSINT enthusiast · Former DevOps
 ### 🏆 Trophées
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skurt0x90&theme=radical&no-frame=true&row=1&column=6" alt="Trophées GitHub" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Skurt0x90&theme=radical&no-frame=true&no-bg=true&row=1&column=6" alt="Trophées GitHub" />
 </p>
 
 -----
@@ -41,7 +52,7 @@ Certified **GCIH** · OSINT enthusiast · Former DevOps
 ### 📈 Activité
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skurt0x90&theme=redical&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skurt0x90&theme=radical&hide_border=true" alt="Contribution Graph" />
 </p>
 
 -----
