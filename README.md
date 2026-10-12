@@ -20,9 +20,9 @@ Certified **GCIH** · OSINT enthusiast · Former DevOps
 
 | Challenge | Position | Bonnes réponses | Hints utilisés |
 |-----------|:--------:|:---------------:|:--------------:|
-| opération #Égide2025 | Top 20 | 92% | 1 |
+| opération #Égide2025 | 18 | 92% | 1 |
 | Opération CULOT | 51/225 | 92% | 0 |
-| OSINT MINARM 2023 | Top 100 / 450 | - | - |
+| OSINT MINARM 2023 | 91 / 450 | - | - |
 | CTF Deep Threat | Hors délai | 100% | 1 |
 
 -----
